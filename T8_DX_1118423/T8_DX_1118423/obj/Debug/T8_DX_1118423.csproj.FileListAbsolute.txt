@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio Code\T8_DX_1118423\T8_DX_1118423\bin\Debug\T8_DX_1118423.exe.config
+C:\Users\User\Documents\Visual Studio Code\T8_DX_1118423\T8_DX_1118423\bin\Debug\T8_DX_1118423.exe
+C:\Users\User\Documents\Visual Studio Code\T8_DX_1118423\T8_DX_1118423\bin\Debug\T8_DX_1118423.pdb
+C:\Users\User\Documents\Visual Studio Code\T8_DX_1118423\T8_DX_1118423\obj\Debug\T8_DX_1118423.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Visual Studio Code\T8_DX_1118423\T8_DX_1118423\obj\Debug\T8_DX_1118423.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Visual Studio Code\T8_DX_1118423\T8_DX_1118423\obj\Debug\T8_DX_1118423.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio Code\T8_DX_1118423\T8_DX_1118423\obj\Debug\T8_DX_1118423.exe
+C:\Users\User\Documents\Visual Studio Code\T8_DX_1118423\T8_DX_1118423\obj\Debug\T8_DX_1118423.pdb
